@@ -21,5 +21,5 @@ O objetivo principal é responder a uma pergunta de negócio crucial: **O salár
 2. Certifique-se de ter as bibliotecas instaladas (`pip install pandas matplotlib`).
 3. Execute o script no Jupyter Notebook ou Google Colab utilizando os arquivos de dados fornecidos na pasta.
 
-![Gráfico Evolução Salário Mínimo](evolucao_salario_minimo_real.png)
+![Gráfico Evolução Salário Mínimo](evolucao_salario_minimo_real(1).png)
 
