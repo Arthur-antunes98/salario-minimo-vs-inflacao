@@ -23,5 +23,3 @@ O objetivo principal é responder a uma pergunta de negócio crucial: **O salár
 
 ![Gráfico Evolução Salário Mínimo](evolucao_salario_minimo_real.png)
 
----
-Feito com 💻 por [Seu Nome / LinkedIn]
